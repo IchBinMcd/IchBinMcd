@@ -12,7 +12,7 @@
 - 🟢 Css
 - 🔵 Php
 
-                                   # Sosyal Medya
+ # Sosyal Medya
 
 - ![https://youtube.com/c/McdKsr](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=dark) 
 - **McdKsr**

@@ -1,13 +1,12 @@
-# 👋 Merhaba Ben Can,
+# 👋 Merhaba Ben Can
 - 🎇 Öğrenciyim,
 - ❤ Kod Yazmayı çok seviyorum,
-# Bildiğim Kodlama Dilleri
+# 🟣 Bildiğim Kodlama Dilleri
 - 🔴 Html
 - 🟠 JavaScript(Node)
 - 🟡 Python
 - 🟢 Css
 - 🔵 Php
-- 🟣 Vue
 
 <!---
 IchBinMcd/IchBinMcd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
